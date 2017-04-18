@@ -1,6 +1,6 @@
 # vue.js2.0实现饿了么app商家页面
 
-> sell app
+> 饿了么app商家页面
 
 ## Build Setup
 
